@@ -1,0 +1,10 @@
+body{
+    font-family: Poppins;
+}
+*{
+    transition: .3s all ease;
+}
+a:hover{
+    color:#21B573;
+    text-decoration: none;
+}
