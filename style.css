@@ -8,3 +8,36 @@ a:hover{
     color:#21B573;
     text-decoration: none;
 }
+.cool-bg{
+    background-color: #F0FFF0;
+}
+.text-magenda{
+    color: #413960;;
+}
+.btn-success{
+    background-color: #21B573 !important;
+    border-color: #21B573 !important;
+}
+.text-success{
+    color: #21B573 !important;
+}
+.btn-rounded{
+    border-radius: 2rem;
+    padding-right: 1.5em;
+    padding-left: 1.5em;
+}
+p{
+    line-height: 2em;
+    font-weight: normal;
+    font-size: 16px;
+    color: #585859;
+}
+/* ======== Navbar ======== */
+.navbar-brand img{
+    height: 60px;
+}
+.navbar-expand-sm .navbar-nav .nav-link {
+    padding-right: 30px;
+    color: #000000;
+}
+
