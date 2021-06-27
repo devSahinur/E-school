@@ -40,3 +40,14 @@ p{
     padding-right: 30px;
     color: #000000;
 }
+/* ======== services ======== */
+.single-service{
+    border-radius: 10px;
+}
+.single-service img{
+    height: 80px;
+}
+.single-service:hover{
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
