@@ -64,3 +64,22 @@ p{
 .courses .course-info p{
     margin-bottom: 0;
 }
+/* ========= footer ======== */
+footer{
+    background-color:#282531;
+}
+footer a{
+    color: #FFFFFF;
+}
+footer li{
+    padding-top: 10px;
+}
+.copy-right p{
+    color: #CDCDCD;
+}
+@media (max-width:777px){
+    .testimonial img{
+        max-width: 140px;
+    }
+}
+
